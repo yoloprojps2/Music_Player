@@ -1,0 +1,2 @@
+https://github.com/Teaonly/android-eye
+https://www.quora.com/How-do-I-send-files-and-string-between-clients-and-server-communication-in-sockets-in-Java
